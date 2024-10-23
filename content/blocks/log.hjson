@@ -1,4 +1,4 @@
-extendedType: MultiCraft
+extendedType: MultiCrafter
 name: логический объединитель
 description: логически объединяет 1 и 0
 health: 60
