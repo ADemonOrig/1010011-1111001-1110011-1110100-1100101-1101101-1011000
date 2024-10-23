@@ -3,6 +3,7 @@ name: файл с паролем
 description: защищает область паролем
 health: 2000
 size: 2
+category: walls
 research: D
 researchCostMiltiplier: 2
 requirements: [
