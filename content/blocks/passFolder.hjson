@@ -3,7 +3,7 @@ name: папка с паролем
 description: защищяет еще большую область паролем чем файл с ним
 health: 4000
 size: 2
-category: walls
+category: wall
 research: passFile
 researchCostMultiplier: 2
 requirements: [
