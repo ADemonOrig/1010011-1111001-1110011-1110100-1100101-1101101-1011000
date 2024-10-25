@@ -1,0 +1,7 @@
+type: Item
+name: пароль
+description: пароль, требуется для защиты данных
+alwaysUnlocked: false
+research: scr
+color: 006AFF
+cost: 1

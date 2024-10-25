@@ -1,0 +1,7 @@
+type: Item
+name: программа
+description: сложный алгоритм
+alwaysUnlocked: false
+research: scr
+color: 14B700
+cost: 1

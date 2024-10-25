@@ -1,0 +1,7 @@
+type: Item
+name: взлом
+description: перебирает все возможные варианты взлома
+alwaysUnlocked: false
+research: scr
+color: FF0800
+cost: 1

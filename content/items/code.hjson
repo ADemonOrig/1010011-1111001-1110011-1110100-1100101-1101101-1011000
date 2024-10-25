@@ -1,0 +1,7 @@
+type: Item
+name: код
+description: какие-то операции
+alwaysUnlocked: false
+research: D
+color: FF0800
+cost: 1

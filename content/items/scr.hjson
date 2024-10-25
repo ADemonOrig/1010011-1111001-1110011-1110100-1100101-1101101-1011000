@@ -1,0 +1,7 @@
+type: Item
+name: скрипт
+description: небольшой алгоритм
+alwaysUnlocked: false
+research: ab
+color: FF9400
+cost: 1

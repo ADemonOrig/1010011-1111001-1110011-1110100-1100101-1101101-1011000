@@ -1,0 +1,7 @@
+type: Item
+name: 01
+description: нет да так же может использоватся как 10 (просто 10 не был добавлен в мод)
+alwaysUnlocked: false
+research: a
+color: FFFFFF
+cost: 1

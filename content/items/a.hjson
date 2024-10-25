@@ -1,0 +1,7 @@
+type: Item
+name: 0
+description: нет
+alwaysUnlocked: false
+research: D
+color: 006AFF
+cost: 1

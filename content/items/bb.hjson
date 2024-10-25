@@ -1,0 +1,7 @@
+type: Item
+name: 11
+description: да да
+alwaysUnlocked: false
+research: 1
+color: 15FF00
+cost: 1

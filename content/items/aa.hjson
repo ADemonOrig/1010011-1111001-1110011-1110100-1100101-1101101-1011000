@@ -1,0 +1,7 @@
+type: Item
+name: 00
+description: нет нет
+alwaysUnlocked: false
+research: a
+color: FF0800
+cost: 1
