@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: добыча 1
+description: добывает 1
+health: 50
+size: 2
+category: crafting
+hasItem: true
+itemCapacity: 3
+research: D
+craftTime: 180
+researchCostMultiplier: 1.6
+requirements: [
+code/20
+]
+outputItems: [
+b/1
+]
+updateEffect: none
+ambientSound: hum
+ambientSoundVolume: 0.5
