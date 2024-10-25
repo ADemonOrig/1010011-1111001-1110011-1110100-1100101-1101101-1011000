@@ -1,0 +1,19 @@
+type: WallCrafter
+name: копирующий файл
+description: копирует код
+health: 35
+size: 2
+category: production
+hasItem: true
+itemCapacity: 12
+research: D
+drillTime: 30
+researchCostMultiplier: 2
+requirements: [
+code/20
+]
+tier: 1
+squareSprite: false
+updateEffect: none
+ambientSound: hum
+ambientSoundVolume: 0.5

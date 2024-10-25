@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: переборщик
+description: создает скрипт которые перебирает список данных
+health: 90
+size: 3
+category: crafting
+hasItem: true
+itemCapacity: 15
+research: scrCrafter
+craftTime: 60
+researchCostMultiplier: 5
+requirements: [
+a/55
+b/55
+ab/35
+aa/35
+code/55
+scr/25
+]
+consumes: {
+items: [
+scr/1
+code/1
+a/1
+bb/1
+]
+}
+outputItem: hack/1
+squareSprite: false
+updateEffect: none
+ambientSound: hum
+ambientSoundVolume: 0.5
