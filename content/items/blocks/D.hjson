@@ -1,0 +1,19 @@
+name: диск D
+description: ваше хранение данных
+health: 1000
+armor: 28
+size: 5
+category: effect
+hasItem: true
+itemCapacity: 1000
+alwaysUnlocked: true
+unitCapModifier: 2
+requirements: [
+b/250
+a/250
+bb/100
+aa/100
+ab/100
+code/200
+pass/100
+]

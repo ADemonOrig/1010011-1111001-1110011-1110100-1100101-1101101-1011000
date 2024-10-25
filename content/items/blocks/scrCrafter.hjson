@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: скриптер
+description: делает скрипты
+health: 90
+size: 3
+category: crafting
+hasItem: true
+itemCapacity: 5
+research: log
+craftTime: 60
+researchCostMultiplier: 4
+requirements: [
+a/35
+b/35
+bb/25
+aa/25
+ab/15
+code/35
+]
+consumes: {
+items: [
+code/2
+ab/2
+aa/1
+bb/1
+]
+}
+outputItem: scr/2
+squareSprite: false
+updateEffect: none
+ambientSound: hum
+ambientSoundVolume: 0.5
