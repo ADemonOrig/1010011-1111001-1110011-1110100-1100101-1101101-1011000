@@ -16,7 +16,7 @@ code/20
 ]
 consumes: {
 items: [
-b2
+b/2
 ]
 }
 outputItems: [
